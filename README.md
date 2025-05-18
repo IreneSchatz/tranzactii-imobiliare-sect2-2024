@@ -8,6 +8,7 @@ Acest proiect reprezinta o analiza a tranzactiilor imobiliare din sectorul 2 in 
 -'tranzactii_final.csv' - Fisier final curatat
 -'Tranzactii sector 2 2024.pbix'- Vizualizari interactive realizate in PowerBI
 -'Tranzactii sector 2 2024.docx' - Pasii efectuati, capturi de ecran si concluzii
+-'Tranzactii sector 2 2024.ipynb' - Codul pentru curatare si preprocesare date
 
 ##Tehnologii folosite: 
 
